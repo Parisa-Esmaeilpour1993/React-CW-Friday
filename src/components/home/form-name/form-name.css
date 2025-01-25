@@ -1,0 +1,8 @@
+.conteiner{
+    display: flex;
+    justify-content: center;
+}
+.formName{
+    font-size: xx-large;
+    color: blueviolet;
+}

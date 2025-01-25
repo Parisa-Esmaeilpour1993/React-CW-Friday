@@ -1,0 +1,18 @@
+.emailInputContainer{
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.emailLabel{
+    margin: 3px;
+    font-size:large;
+    color: blue;
+}
+.emailInput{
+    padding: 3px;
+    width: 50%;
+    border: blueviolet solid 2px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 3px lightblue ;
+}
