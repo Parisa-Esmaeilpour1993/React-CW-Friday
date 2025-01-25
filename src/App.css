@@ -4,6 +4,53 @@
   box-sizing: border-box;
 }
 
+.header {
+  display: flex;
+  margin: 20px;
+  justify-content: center;
+  align-items: center;
+  gap: 12px;
+}
+
+.header-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 72px;
+  height: 54px;
+  border-width: 4px;
+  border-color: lightgray;
+  box-shadow: 0px 0px 16px lightgray;
+  border-radius: 50%;
+}
+
+.header-icon {
+  width: 58px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.header-descriptive {
+  outline: none;
+  border-radius: 10px;
+  border: 1px solid lightgray;
+  box-shadow: 0px 0px 10px lightgray;
+  padding: 20px;
+  width: 100%;
+}
+
+.header-menu-icon {
+  width: 40px;
+  height: 60px;
+}
+
+.main {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
 .footer-container {
   font-family: "Pacifico", cursive;
   background-color: #1a1a2e;
