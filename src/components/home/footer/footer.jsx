@@ -1,5 +1,4 @@
 import React from "react";
-import "./footer.css";
 import FooterLogo from "./footerLogo/footerLogo";
 import FooterOptions from "./footerOptions/footerOptions";
 
